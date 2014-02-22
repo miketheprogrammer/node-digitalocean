@@ -1,0 +1,35 @@
+{
+  "name": "digitalocean",
+  "version": "0.0.0",
+  "description": "Javascript API for Digital Ocean.",
+  "main": "index.js",
+  "scripts": {
+    "test": "runtests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/miketheprogrammer/node-digitalocean.git"
+  },
+  "keywords": [
+    "digital",
+    "ocean",
+    "digitocean",
+    "api",
+    "deploy",
+    "cloud",
+    "management",
+    "service"
+  ],
+  "author": "Michael Hernandez - michael.hernandez1988@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/miketheprogrammer/node-digitalocean/issues"
+  },
+  "homepage": "https://github.com/miketheprogrammer/node-digitalocean",
+  "dependencies": {
+    "hyperquest": "~0.2.0"
+  },
+  "devDependencies": {
+    "runtests": "~0.1.7"
+  }
+}
