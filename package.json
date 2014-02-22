@@ -1,6 +1,6 @@
 {
   "name": "digitalocean",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Javascript API for Digital Ocean.",
   "main": "index.js",
   "scripts": {
