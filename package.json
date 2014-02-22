@@ -27,7 +27,9 @@
   },
   "homepage": "https://github.com/miketheprogrammer/node-digitalocean",
   "dependencies": {
-    "hyperquest": "~0.2.0"
+    "hyperquest": "~0.2.0",
+    "request": "~2.34.0",
+    "debug": "~0.7.4"
   },
   "devDependencies": {
     "runtests": "~0.1.7"
