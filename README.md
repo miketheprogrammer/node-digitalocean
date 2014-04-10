@@ -1,3 +1,6 @@
+DEPRECATED. There was already a version of this on NPM. This is not being developed anymore in order to keep npm clean and focused.
+
+
 node-digitalocean
 =================
 
